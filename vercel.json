@@ -7,7 +7,7 @@
     }
   ],
   "routes": [
-    { "handle": "file" },
+    { "handle": "filesystem" },
     { "src": "/(.*)", "dst": "/index.html" }
   ]
 }
